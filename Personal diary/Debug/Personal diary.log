@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Islam\source\repos\ConsoleApplication\ConsoleApplication1\ConsoleApplication1.cpp(72,10): warning C4101: 'name': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Islam\source\repos\ConsoleApplication\Debug\ConsoleApplication1.exe
